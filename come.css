@@ -1,0 +1,24 @@
+/*탑 배너*/       /**/
+#main_banner {
+    width: 1280px;
+    height: 200px;
+    background: #fff;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-bottom: 1px solid #999;
+}
+#main_banner h3{
+    font-size: 40px;
+    padding-top: 50px;
+    font-family: 'Gugi', cursive;
+}
+#map {
+    width: 1000px;
+    height: 600px;
+}
+#map h2{
+    text-align: left;
+}
+#map p{
+    text-align: left;
+}
